@@ -1,6 +1,6 @@
 # Prasunet Internship Cyber Security
 
-![Prasunet Logo](https://prasunet.com/images/loggo.jpg)
+![Prasunet Logo](https://prasunet.com/images/loggo.jpg){: style="width:100px;height:100px"}
 
 Welcome to the **Prasunet Internship Cyber Security** repository. This repository contains the projects and tasks I completed during my internship at Prasunet Pvt. Ltd., focusing on various aspects of cybersecurity. Below, you'll find a detailed description of each project and the skills demonstrated through these tasks.
 
@@ -84,7 +84,7 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 ---
 ## Badge
 
-![Python Logo](https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=512)
+![Python Logo](https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=512){: style="width:100px;height:100px"}
 
 ## Conclusion
 
