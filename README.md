@@ -84,16 +84,6 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 
 ---
 
-## How to Use This Repository
-
-To explore the projects in this repository, follow these steps:
-
-**Clone the Repository**:
-   ```markdown
-   ```bash
-   git clone https://github.com/your-username/Prasunet_Internship_CS.git
-   ```bash
-
-##Conclusion
+## Conclusion
 
 The Prasunet Cyber Security Internship provided valuable hands-on experience in various cybersecurity domains, enhancing both theoretical knowledge and practical skills. This repository is a testament to the learning journey and the practical applications developed throughout the internship.
