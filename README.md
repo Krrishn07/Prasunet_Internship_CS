@@ -1,6 +1,6 @@
 # Prasunet Internship Cyber Security
 
-![Prasunet Logo]([https://via.placeholder.com/150](https://prasunet.com/images/loggo.jpg)) <!-- Replace this with an actual image if available -->
+![Prasunet Logo](https://prasunet.com/images/loggo.jpg)
 
 Welcome to the **Prasunet Internship Cyber Security** repository. This repository contains the projects and tasks I completed during my internship at Prasunet Pvt. Ltd., focusing on various aspects of cybersecurity. Below, you'll find a detailed description of each project and the skills demonstrated through these tasks.
 
@@ -89,10 +89,11 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 To explore the projects in this repository, follow these steps:
 
 **Clone the Repository**:
-
+   ```markdown
    ```bash
    git clone https://github.com/your-username/Prasunet_Internship_CS.git
+   ```bash
 
-#Conclusion
+##Conclusion
 
 The Prasunet Cyber Security Internship provided valuable hands-on experience in various cybersecurity domains, enhancing both theoretical knowledge and practical skills. This repository is a testament to the learning journey and the practical applications developed throughout the internship.
