@@ -90,4 +90,4 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 
 The Prasunet Cyber Security Internship provided valuable hands-on experience in various cybersecurity domains, enhancing both theoretical knowledge and practical skills. This repository is a testament to the learning journey and the practical applications developed throughout the internship.
 
-**Developed by** - Bal Kishan Reddy  |  krrishnreddybkr07@gmail.com  |  [Linkedin]https://www.linkedin.com/in/bal-kishan-reddy-6360/
+**Developed by** - Bal Kishan Reddy    |    krrishnreddybkr07@gmail.com    |    [Linkedin](https://www.linkedin.com/in/bal-kishan-reddy-6360/)
