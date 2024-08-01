@@ -14,7 +14,6 @@ Welcome to the **Prasunet Internship Cyber Security** repository. This repositor
   - [Prasunet_CS_04: Simple Keylogger](#prasunet_cs_04-simple-keylogger)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ---
 
@@ -83,6 +82,9 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 **Project Highlights**: This project provided hands-on experience with keylogging techniques, emphasizing the importance of ethical hacking and awareness of security vulnerabilities.
 
 ---
+## Badge
+
+![Python Logo](https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=512)
 
 ## Conclusion
 
