@@ -84,7 +84,7 @@ The **Prasunet Cyber Security Internship** offered a comprehensive insight into 
 ---
 ## Badge
 
-![Python Logo](https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=512){: style="width:100px;height:100px"}
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp&w=512" alt="Python Badge" width="100" height="100">
 
 ## Conclusion
 
