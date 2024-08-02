@@ -1,5 +1,5 @@
-# Prasunet_CS_02
-# Pixel Manipulation for Image Encryption
+# 🎯Prasunet_CS_02
+# 🎯Pixel Manipulation for Image Encryption
 
 ## Overview
 This project involves implementing image encryption through pixel manipulation. By applying mathematical operations to each pixel, the project aims to secure visual data effectively.
@@ -12,7 +12,7 @@ This project involves implementing image encryption through pixel manipulation. 
 ## Project Highlights
 - **Encryption/Decryption Functions**: Created functions for encrypting and decrypting images by manipulating pixel values.
 - **XOR Operation**: Utilized XOR operations to ensure robust encryption and decryption of image data.
-- **User Interface**: Designed an interface for users to upload images and apply encryption or decryption.
+- **User Interface**: Designed an interface for users to assign images and apply encryption or decryption.
 
 ## Fun Fact
 🤓 Image encryption through pixel manipulation is a technique often used in modern security systems to protect visual data. XOR operations are fundamental due to their simplicity and effectiveness!
@@ -26,17 +26,17 @@ This project involves implementing image encryption through pixel manipulation. 
 ### Steps
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/image-encryption.git
+    git clone https://github.com/your_username/Prasunet_Internship_CS.git
     ```
 2. **Navigate to the Directory**:
     ```sh
-    cd image-encryption
+    cd Prasunet_CS_02
     ```
 3. **Run the Script**:
     ```sh
-    python image_encryption.py
+    python Image_Encryption_Tool.py
     ```
-4. **Upload Image and Apply Encryption/Decryption**:
+4. **Assign Image and Apply Encryption/Decryption**:
     Follow the on-screen instructions to upload your image and apply the desired operation.
 
 ### Example
