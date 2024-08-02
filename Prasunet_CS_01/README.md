@@ -18,10 +18,21 @@ This project involves implementing the Caesar Cipher, one of the simplest and mo
 🤓 The Caesar Cipher is named after Julius Caesar, who used it to encode his military messages. It’s one of the oldest known encryption techniques still in use today!
 
 ## Usage
-1. **Clone the Repository**: `git clone https://github.com/your_username/Prasunet_Internship_CS.git`
-2. **Navigate to the Directory**: `cd Prasunet_CS_01`
-3. **Run the Script**: `python Caesar_Cipher_Implementation.py`
-4. **Input Message and Shift Value**: Follow the on-screen instructions to encrypt or decrypt your message.
+### Steps
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/your_username/Prasunet_Internship_CS.git
+    ```
+2. **Navigate to the Directory**:
+    ```sh
+    cd Prasunet_CS_01
+    ```
+3. **Run the Script**:
+    ```sh
+    python Caesar_Cipher_Implementation.py
+    ```
+4. **Assign Image and Apply Encryption/Decryption**:
+  Follow the on-screen instructions to encrypt or decrypt your message.
 
 ## Example
 ```python
