@@ -1,5 +1,5 @@
-# Prasunet_CS_01
-# Caesar Cipher Implementation
+# 🎯Prasunet_CS_01
+# 🎯Caesar Cipher Implementation
 
 ## Overview
 This project involves implementing the Caesar Cipher, one of the simplest and most well-known encryption techniques. The Caesar Cipher shifts each letter in a plaintext message by a fixed number of positions down the alphabet.
@@ -18,9 +18,9 @@ This project involves implementing the Caesar Cipher, one of the simplest and mo
 🤓 The Caesar Cipher is named after Julius Caesar, who used it to encode his military messages. It’s one of the oldest known encryption techniques still in use today!
 
 ## Usage
-1. **Clone the Repository**: `git clone https://github.com/yourusername/caesar-cipher.git`
-2. **Navigate to the Directory**: `cd caesar-cipher`
-3. **Run the Script**: `python caesar_cipher.py`
+1. **Clone the Repository**: `git clone https://github.com/your_username/Prasunet_Internship_CS.git`
+2. **Navigate to the Directory**: `cd Prasunet_CS_01`
+3. **Run the Script**: `python Caesar_Cipher_Implementation.py`
 4. **Input Message and Shift Value**: Follow the on-screen instructions to encrypt or decrypt your message.
 
 ## Example
